@@ -1,0 +1,45 @@
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+.alianças {
+	text-align: center;
+	font-size: 20px;
+}
+
+.paises {
+	font-size: 18px;
+}
+
+li {
+	font-weight: bold;
+}
+
+.bandeira {
+	width: 200px;
+	height: 120px;
+}
+
+.bandeira2 {
+	width: 200px;
+	height: 120px;
+}
+
+.bandeira3 {
+	width: 200px;
+	height: 120px;
+}
+
+.bandeira4 {
+	width: 200px;
+	height: 120px;
+}
+
+.bandeira5 {
+	width: 200px;
+	height: 120px;
+}
